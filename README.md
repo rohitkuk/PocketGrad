@@ -1,2 +1,2 @@
 # PocketGrad
-Trying to build a Deep Learning Frameworlk initiall based on PyTorch/ Numpy
+Trying to build a Deep Learning Frameworlk Initially based on PyTorch/ Numpy
